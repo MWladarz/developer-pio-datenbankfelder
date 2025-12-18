@@ -7,7 +7,7 @@
 _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklappen._
 
 <details>
-<summary><strong>Abzugsfläche 2D</strong></summary>
+<summary><strong>Abzugsfläche 2D (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -18,7 +18,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Aussparung</strong></summary>
+<summary><strong>Aussparung (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -82,7 +82,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Baugrube Aufschüttung</strong></summary>
+<summary><strong>Baugrube Aufschüttung (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -98,7 +98,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Dämmung</strong></summary>
+<summary><strong>Dämmung (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -148,7 +148,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Elektrische Kombination</strong></summary>
+<summary><strong>Elektrische Kombination (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -186,7 +186,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Elektrisches Bauteil</strong></summary>
+<summary><strong>Elektrisches Bauteil (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -225,7 +225,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Elektroinstallation</strong></summary>
+<summary><strong>Elektroinstallation (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -260,7 +260,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Fenster</strong></summary>
+<summary><strong>Fenster (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -517,7 +517,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Gebäude</strong></summary>
+<summary><strong>Gebäude (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -581,7 +581,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Gebäude eigene Form</strong></summary>
+<summary><strong>Gebäude eigene Form (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -644,7 +644,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Gefälle Grundriss</strong></summary>
+<summary><strong>Gefälle Grundriss (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -688,7 +688,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Gefälledämmung</strong></summary>
+<summary><strong>Gefälledämmung (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -729,7 +729,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Geländer/Zaun Classic</strong></summary>
+<summary><strong>Geländer/Zaun Classic (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -963,7 +963,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Geländeschnitt</strong></summary>
+<summary><strong>Geländeschnitt (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1031,7 +1031,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Geländeschnittlinie</strong></summary>
+<summary><strong>Geländeschnittlinie (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1045,7 +1045,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Hilfslinie</strong></summary>
+<summary><strong>Hilfslinie (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1057,7 +1057,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Hyperlink</strong></summary>
+<summary><strong>Hyperlink (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1091,7 +1091,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Kantenausbildung</strong></summary>
+<summary><strong>Kantenausbildung (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1150,7 +1150,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Kotenbemaßung Classic</strong></summary>
+<summary><strong>Kotenbemaßung Classic (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1170,7 +1170,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Legende Classic CW</strong></summary>
+<summary><strong>Legende Classic CW (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1219,7 +1219,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Lichtschacht</strong></summary>
+<summary><strong>Lichtschacht (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1304,7 +1304,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Maßstabsbalken</strong></summary>
+<summary><strong>Maßstabsbalken (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1336,7 +1336,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Mengennachweis</strong></summary>
+<summary><strong>Mengennachweis (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1373,7 +1373,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Pflanze</strong></summary>
+<summary><strong>Pflanze (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1389,7 +1389,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Pflanze (Fläche)</strong></summary>
+<summary><strong>Pflanze (Fläche) (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1411,7 +1411,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Pflanze (Reihe)</strong></summary>
+<summary><strong>Pflanze (Reihe) (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1428,7 +1428,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Pflanze (Verband)</strong></summary>
+<summary><strong>Pflanze (Verband) (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1445,7 +1445,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Pflanze RenderMall</strong></summary>
+<summary><strong>Pflanze RenderMall (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1460,7 +1460,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Profillinie</strong></summary>
+<summary><strong>Profillinie (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1484,7 +1484,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Querprofile</strong></summary>
+<summary><strong>Querprofile (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1565,7 +1565,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Rampe</strong></summary>
+<summary><strong>Rampe (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -1775,7 +1775,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Raum</strong></summary>
+<summary><strong>Raum (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -2160,7 +2160,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Rechtwinkelbemaßung</strong></summary>
+<summary><strong>Rechtwinkelbemaßung (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -2190,7 +2190,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Schlitze Durchbrüche Classic</strong></summary>
+<summary><strong>Schlitze Durchbrüche Classic (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -2211,7 +2211,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Treppe</strong></summary>
+<summary><strong>Treppe (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -2287,7 +2287,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Tür</strong></summary>
+<summary><strong>Tür (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -2577,7 +2577,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Vermessungspunkt</strong></summary>
+<summary><strong>Vermessungspunkt (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
@@ -2631,7 +2631,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 </details>
 
 <details>
-<summary><strong>Wandbild</strong></summary>
+<summary><strong>Wandbild (Localized)</strong></summary>
 
 | Tool Universal | Record Universal | Record Localized | Typ |
 |---|---|---|---|
